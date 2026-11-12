@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GCP RAK (WGS84, Z+2)</name>
+    <description>Ground control points, WGS84. Z+2 = WGS84 ellipsoidal height (EGM2008) + 2.00 m pole height. Points are clamped to ground for display; heights are in each point's data.</description>
+    <Style id="gcp">
+      <IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon></IconStyle>
+      <LabelStyle><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Placemark>
+      <name>GCP1</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.686390232
+Long: 55.789079390
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -31.7767 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP1</value></Data>
+        <Data name="Lat"><value>25.686390232</value></Data>
+        <Data name="Long"><value>55.789079390</value></Data>
+        <Data name="Z+2"><value>-31.7767</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.789079390,25.686390232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP2</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.682640520
+Long: 55.791532295
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -25.2906 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP2</value></Data>
+        <Data name="Lat"><value>25.682640520</value></Data>
+        <Data name="Long"><value>55.791532295</value></Data>
+        <Data name="Z+2"><value>-25.2906</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.791532295,25.682640520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP3</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.687266626
+Long: 55.791696233
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -24.6652 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP3</value></Data>
+        <Data name="Lat"><value>25.687266626</value></Data>
+        <Data name="Long"><value>55.791696233</value></Data>
+        <Data name="Z+2"><value>-24.6652</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.791696233,25.687266626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP4</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.685408901
+Long: 55.791841094
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -24.2513 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP4</value></Data>
+        <Data name="Lat"><value>25.685408901</value></Data>
+        <Data name="Long"><value>55.791841094</value></Data>
+        <Data name="Z+2"><value>-24.2513</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.791841094,25.685408901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP5</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.689475569
+Long: 55.792685309
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -27.0992 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP5</value></Data>
+        <Data name="Lat"><value>25.689475569</value></Data>
+        <Data name="Long"><value>55.792685309</value></Data>
+        <Data name="Z+2"><value>-27.0992</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.792685309,25.689475569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP6</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.685475582
+Long: 55.795103968
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -25.8802 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP6</value></Data>
+        <Data name="Lat"><value>25.685475582</value></Data>
+        <Data name="Long"><value>55.795103968</value></Data>
+        <Data name="Z+2"><value>-25.8802</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.795103968,25.685475582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP7</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.688213345
+Long: 55.795660501
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -24.5738 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP7</value></Data>
+        <Data name="Lat"><value>25.688213345</value></Data>
+        <Data name="Long"><value>55.795660501</value></Data>
+        <Data name="Z+2"><value>-24.5738</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.795660501,25.688213345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP8</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.685896061
+Long: 55.795811275
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -26.8709 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP8</value></Data>
+        <Data name="Lat"><value>25.685896061</value></Data>
+        <Data name="Long"><value>55.795811275</value></Data>
+        <Data name="Z+2"><value>-26.8709</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.795811275,25.685896061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP9</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.693284312
+Long: 55.797167548
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -27.0689 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP9</value></Data>
+        <Data name="Lat"><value>25.693284312</value></Data>
+        <Data name="Long"><value>55.797167548</value></Data>
+        <Data name="Z+2"><value>-27.0689</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.797167548,25.693284312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP10</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.692519206
+Long: 55.797788713
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -23.9997 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP10</value></Data>
+        <Data name="Lat"><value>25.692519206</value></Data>
+        <Data name="Long"><value>55.797788713</value></Data>
+        <Data name="Z+2"><value>-23.9997</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.797788713,25.692519206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP11</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.690310172
+Long: 55.800200885
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -25.1886 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP11</value></Data>
+        <Data name="Lat"><value>25.690310172</value></Data>
+        <Data name="Long"><value>55.800200885</value></Data>
+        <Data name="Z+2"><value>-25.1886</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.800200885,25.690310172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GCP12</name>
+      <styleUrl>#gcp</styleUrl>
+      <description>Lat: 25.690729402
+Long: 55.801338973
+Z+2 (WGS84 ellipsoidal, 2.00 m pole): -26.6630 m</description>
+      <ExtendedData>
+        <Data name="ID"><value>GCP12</value></Data>
+        <Data name="Lat"><value>25.690729402</value></Data>
+        <Data name="Long"><value>55.801338973</value></Data>
+        <Data name="Z+2"><value>-26.6630</value></Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>55.801338973,25.690729402,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
